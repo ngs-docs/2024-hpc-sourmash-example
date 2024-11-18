@@ -1,10 +1,10 @@
-/usr/bin/time -v sourmash scripts manysearch 1.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 1.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 2.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 2.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 3.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 3.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 4.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 4.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 5.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 5.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 6.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 6.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 7.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 7.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 8.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 8.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 9.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 9.csv -c 4
-/usr/bin/time -v sourmash scripts manysearch 0.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 0.csv -c 4
+sourmash scripts manysearch 1.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 1.csv -c 2
+sourmash scripts manysearch 2.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 2.csv -c 2
+sourmash scripts manysearch 3.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 3.csv -c 2
+sourmash scripts manysearch 4.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 4.csv -c 2
+sourmash scripts manysearch 5.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 5.csv -c 2
+sourmash scripts manysearch 6.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 6.csv -c 2
+sourmash scripts manysearch 7.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 7.csv -c 2
+sourmash scripts manysearch 8.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 8.csv -c 2
+sourmash scripts manysearch 9.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 9.csv -c 2
+sourmash scripts manysearch 0.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 0.csv -c 2
