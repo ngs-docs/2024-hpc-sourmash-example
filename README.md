@@ -21,7 +21,9 @@ conda activate smash
 sourmash sketch dna data/*.fa
 ```
 
-Now run your commands, like
+Now run your commands, like so:
 ```!
 sourmash scripts manysearch 1.fa.sig /group/ctbrowngrp/sourmash-db/gtdb-rs214/gtdb-rs214-reps.k31.zip -o 1.csv -c 4
 ```
+
+Note that this uses the GTDB rs214 reps database from [the sourmash databases page](https://sourmash.readthedocs.io/en/latest/databases.html).
