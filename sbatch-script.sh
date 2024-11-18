@@ -13,7 +13,7 @@
 module load mamba
 
 # activate your desired conda environment
-conda activate smash2
+conda activate smash
 
 # fail on weird errors
 set -o nounset
