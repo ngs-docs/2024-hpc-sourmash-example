@@ -12,7 +12,7 @@ cd 2024-hpc-sourmash-example
 
 Install the necessary software via conda:
 ```
-conda env install -n smash -f environment.yml
+conda env create -n smash -f environment.yml
 ```
 
 Activate the conda environment and sketch the genomes:

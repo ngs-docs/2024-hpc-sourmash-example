@@ -7,3 +7,4 @@ dependencies:
     - snakemake-minimal
     - sourmash>=4.8.11,<5
     - sourmash_plugin_branchwater
+    - snakemake-minimal
